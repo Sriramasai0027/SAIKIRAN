@@ -8,3 +8,5 @@ print("player name:",pname)
 print("No.of games played by player:",gnum)
 print("Total score:",totalscore)
 print("Averagescore:",averagescore)
+input("press enter to exit.....")
+
